@@ -1,0 +1,11 @@
+@font-face {
+    src: url(../fonts/Proxima-Nova-Extra-Condensed/Fontspring-DEMO-proximanova-bold.otf);
+    font-family: "Proxima";
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Proxima-Nova-Extra-Condensed/Fontspring-DEMO-proximanova-regular.otf);
+    font-family: "Proxima";
+    font-weight: 400;
+}
